@@ -1,0 +1,14 @@
+.footer {
+  text-align: center;
+  padding: 10px;
+}
+
+.footer__copyright {
+  color: whitesmoke;
+}
+
+.footer__link {
+  font-weight: bold;
+  color: Red;
+  text-decoration-color: red;
+}
